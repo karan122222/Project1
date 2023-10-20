@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>My 3 Projects</title>
+    </head>
+<body>
+    <header>
+        <h1>My Portfolio</h1>
+        <nav>
+            <a href="homepage.html">Homepage</a>
+            <a href="about me.html">About ME</a>
+            <a href="Project1.html">My Projects</a>
+            <a href="contact.html">Contact</a>
+    </header>
+
+    <main>
+        <h1>Justice League Movies</h1>
+        <h2>Welcome to the Justice League Movie Page</h2>
+        <p>Justice League have always been my favourite.</p>
+        <ul>
+            <li>Justice League (2017)</a></li>
+            <li>Zack Snyder's Justice League (2021)</li>
+            <li>Justice League: The New Frontier (2008)</li>
+            <li>Justice League: War (2014)</li>
+            <li>Justice League Dark (2017)</li>
+        </ul>
+        
+        <h3>Justice League Movie Images</h3>
+        <img src="https://cdn.vox-cdn.com/thumbor/kppLC4EPoN76BOh1m0g4yEn1XjY=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/9684829/MV5BMjQwODk2Nzg0M15BMl5BanBnXkFtZTgwNTA2NDAxNDM_._V1_SY1000_CR0_0_1481_1000_AL_.jpg"></img>
+    </main>
+</body>
+</html>
